@@ -17,10 +17,10 @@ class TwitterClient(object):
 
     def __init__(self):
 
-        api_key = 'gOrvz1WPr5VcgWFOI4oYGOeWR'
-        api_key_secret = 'cqEwHTAA7ZQnJqfcEae0K4XbzkLRGGlvaRNML8EEloDko5dnQv'
-        access_token = '1306221655941812226-J2uKBdJPmCIHQRvhJWHzAD34IRDlEd'
-        access_token_secret = 'vDnVQ589FQQSnjkbVwVOIwcqyThlhfPft9ecopzgFnUHT'
+        api_key = 'YOUR_API_KEY'
+        api_key_secret = 'YOUR_API_KEY_SECRET'
+        access_token = 'YOUR_ACCESS_TOKEN'
+        access_token_secret = 'YOUR_ACCESS_TOKEN_SECRET'
 
         # attempt authentication
         try:
